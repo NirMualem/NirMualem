@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NirMualem
-- 👀 I’m Graduated Bs.c in computer science at Hadassah Academic College Jerusalem.
-- 🌱 I’m currently looking for my new job.
+- 🌱 I’m Graduated Bs.c in computer science at Hadassah Academic College Jerusalem.
+- 👀 I’m currently looking for my new job.
 - 📫 You can reach me via email nir.moalm@gmail.com.
 
 <!---
